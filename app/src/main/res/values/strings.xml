@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">worldskillsbank</string>
+
+    <string name="africaZAR">ZAR</string>
+    <string name="russianRUB">RUB</string>
+    <string name="singaporeSGD">SGD</string>
+    <string name="turkishTRY">TRY</string>
+    <string name="americanUSD">USD</string>
+    <string name="kazachKZT">KZT</string>
+    <string name="germnanyEUR">EUR</string>
+
+    <string name="germnay">Germany\neuro</string>
+    <string name="america">United States America\ndollar</string>
+    <string name="kazach">Kazakhstan\nkazakhstan tenge</string>
+    <string name="africa">South African\nrand</string>
+    <string name="russian">Russian\nrouble</string>
+    <string name="singapore">Singapore\ndollar</string>
+    <string name="turkish">Turkish\nlira</string>
+
+    <string name="flag">flag</string>
+    <string name="rasp2">09:00-20:00</string>
+    <string name="adres">Москва, ул.Вавилова, д.7</string>
+    <string name="sost">Работает</string>
+    <string name="rasp1">00:00-00:00</string>
+</resources>
